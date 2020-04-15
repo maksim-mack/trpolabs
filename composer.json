@@ -1,0 +1,13 @@
+{
+    "name": "geras/trpo",
+    "authors": [
+        {
+            "name": "Maksim",
+            "email": "gerasimow.mack@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
