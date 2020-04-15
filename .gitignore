@@ -1,6 +1,7 @@
 composer.phar
 /vendor/
 core/
+.idea
 log/
 version
 *.bat

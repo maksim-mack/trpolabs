@@ -8,7 +8,7 @@ include 'core/LogAbstract.php';
 include 'maksim/MaksimException.php';
 include 'maksim/LinearEq.php';
 include 'maksim/QuadraticEq.php';
-include 'maksim/MyLog.php';
+include 'maksim/Log.php';
 
 function entercheck($num, $letter)
 {
