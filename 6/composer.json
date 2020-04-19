@@ -1,0 +1,17 @@
+{
+    "name": "maksim/labs",
+    "authors": [
+        {
+            "name": "Maksim",
+            "email": "gerasimow.mack@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    },
+     "scripts": {
+        "test lab6" : [
+            "vendor/bin/phpunit tests/TestFilterController"
+        ]
+     }
+}
